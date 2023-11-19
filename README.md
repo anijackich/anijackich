@@ -12,7 +12,7 @@
 <br>
 
 <p align="center">
-    <a href="https://t.me/anijack"><img src="https://img.icons8.com/fluency-systems-filled/40/FFFFFF/new-post.png" alt="https://t.me/anijack"></a>
+    <a href="mailto:mr@anjk.ru"><img src="https://img.icons8.com/fluency-systems-filled/40/FFFFFF/new-post.png" alt="https://t.me/anijack"></a>
     &nbsp;
     <a href="https://t.me/anijack"><img src="https://img.icons8.com/fluency-systems-filled/40/FFFFFF/telegram-app.png" alt="https://t.me/anijack"></a>
 </p>
