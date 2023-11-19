@@ -6,12 +6,7 @@
     <a href="#js-contribution-activity"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anijackich&title_color=81a1c1&bg_color=0000&show_icons=true&theme=dracula&hide_border=true&langs_count=2&card_width=400" alt="langs"></a>
 </p>
 
-<h3 align="center">Skills</h3>
 <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=python,git,docker,linux,django,c,cpp,html,css,js&perline=5" alt="skills"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=python,git,docker,linux,django,c,cpp,html,css,js" alt="skills"></a>
 </p>
 
-<h3 align="center">Most stared repository</h3>
-<p align="center">
-    <a href="https://github.com/anijackich/kinescope-dl"><img src="https://github-readme-stats.vercel.app/api/pin/?username=anijackich&repo=kinescope-dl&theme=nord&hide_border=true" alt="kinescope-dl"> </a> 
-</p>
