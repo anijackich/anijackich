@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mongodb,html,css,js,redis,sqlite,git,docker,kubernetes,linux,java,cpp,c&perline=9" alt="skills"></a>
+    <a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mongodb,redis,sqlite,git,docker,kubernetes,linux,java,cpp,c,html,css,js&perline=9" alt="skills"></a>
 </p>
 
 <br>
