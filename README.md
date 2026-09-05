@@ -1,18 +1,16 @@
-[![anijack](https://0x0.st/HvDB.png)](#)
+### info
+
+- full-time python backend dev
+- CTF infosec experience 
+- have a thing for Dev(Sec)Ops and Web3
+
+### contact
+
+- telegram // [@anijack](https://t.me/anijack)
+- mail // [mr@anjk.surf](mailto:mr@anjk.surf)
 
 <p align="center">
-    <a href="#js-contribution-activity"><img align="" src="https://github-readme-stats.vercel.app/api?username=anijackich&theme=nord&bg_color=00000000&count_private=true&show_icons=true&hide_border=true&hide=prs,issues,contribs&include_all_commits=true&card_width=350&custom_title=GitHub%20Stats" alt="stats"></a>
-    <a href="#js-contribution-activity"><img align="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anijackich&title_color=81a1c1&bg_color=0000&show_icons=true&theme=dracula&hide_border=true&langs_count=2&card_width=400" alt="langs"></a>
-</p>
-
-<p align="center">
-    <a href="#"><img src="https://skillicons.dev/icons?i=python,fastapi,flask,django,postgres,mongodb,redis,sqlite,git,docker,kubernetes,linux,java,cpp,c,html,css,js&perline=9" alt="skills"></a>
-</p>
-
-<br>
-
-<p align="center">
-    <a href="mailto:mr@anjk.ru"><img src="https://img.icons8.com/fluency-systems-filled/40/FFFFFF/new-post.png" alt="https://t.me/anijack"></a>
-    &nbsp;
-    <a href="https://t.me/anijack"><img src="https://img.icons8.com/fluency-systems-filled/40/FFFFFF/telegram-app.png" alt="https://t.me/anijack"></a>
+    <img src="https://github-stats-extended.vercel.app/api?username=anijackich&theme=nord&bg_color=00000000&count_private=true&show_icons=true&hide_border=true&hide=prs,issues,contribs&include_all_commits=true&card_width=350&custom_title=GitHub%20Stats" alt="stats">
+    <br>
+    <img src="https://hitscounter.dev/api/hit?url=https%3A%2F%2Fgithub.com%2Fanijackich%2Fanijackich&label=visitors&icon=github&color=fff"/>
 </p>
